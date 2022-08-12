@@ -1,7 +1,7 @@
 ﻿$imgPath="C:\Windows\Temp\b.jpg"
 $audioPath="C:\Windows\Temp\a.wav"
 Invoke-WebRequest -Uri https://i1.sndcdn.com/artworks-000015364470-671i8t-t500x500.jpg -OutFile $imgPath
-Invoke-WebRequest -Uri https://github.com/Justincoding3/GoogleFormsSpammer/raw/main/Mario%20Oh%20No!.wav -OutFile $audioPath
+Invoke-WebRequest -Uri https://github.com/Justincoding3/GoogleFormsSpammer/raw/main/CHRISPRATT.wav -OutFile $audioPath
 
 function Set-Wallpaper {
     param (
